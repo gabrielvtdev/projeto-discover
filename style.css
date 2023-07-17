@@ -125,6 +125,8 @@ ul li a:hover {
   background: var(--surface-hover);
 }
 
+/* social icons */
+
 #social-icons {
   padding: 24px 0px;
   display: flex;
@@ -144,6 +146,8 @@ ul li a:hover {
 #social-icons a:hover {
   background: var(--highlight-color);
 }
+
+/* footer */
 
 footer {
   padding: 24px 0;
