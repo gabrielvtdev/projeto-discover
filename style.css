@@ -9,7 +9,7 @@
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
   --surface-hover: rgba(255, 255, 255, 0.05);
-  --social-icons-hover: rgba(255, 255, 255, 0.2);
+  --highlight-color: rgba(255, 255, 255, 0.2);
   --switch-bg-url: url(assets/moon-stars.svg);
 }
 
@@ -20,7 +20,7 @@
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-hover: rgba(0, 0, 0, 0.02);
-  --social-icons-hover: rgba(0, 0, 0, 0.1);
+  --highlight-color: rgba(0, 0, 0, 0.1);
 }
 
 body * {
@@ -136,7 +136,7 @@ ul li a:hover {
 }
 
 #social-icons a:hover {
-  background: var(--social-icons-hover);
+  background: var(--highlight-color);
 }
 
 footer {
@@ -154,3 +154,4 @@ footer {
     --bg-url: url(./assets/bg-desktop-light.jpg);
   }
 }
+
