@@ -20,6 +20,8 @@ O **DevLinks** é um projeto simples de página da web que permite aos usuários
 2. Abra o arquivo `index.html` em seu navegador da web.
 3. Explore os diferentes links e experimente alternar entre os modos claro e escuro.
 
+Acesse: https://gabrielvtdev.github.io/projeto-discover/
+
 ## Tecnologias Utilizadas
 
 - HTML5
