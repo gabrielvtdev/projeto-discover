@@ -4,6 +4,8 @@ O **DevLinks** é um projeto simples de página da web que permite aos usuários
 
 ![image](https://github.com/gabrielvtdev/projeto-discover/assets/100651934/66046bcb-6d42-4391-8e9f-32f939335e80)
 
+![image](https://github.com/gabrielvtdev/projeto-discover/assets/100651934/6e8d4eb7-d1d0-4fda-bf81-b511967b880c)
+
 ## Funcionalidades
 
 - **Perfil do Desenvolvedor**: Exibe uma imagem de perfil e o nome de usuário do desenvolvedor.
