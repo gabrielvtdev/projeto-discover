@@ -26,8 +26,7 @@ O **DevLinks** é um projeto simples de página da web que permite aos usuários
 
 ## Autor
 
-- **Gabriel Vinícius** - [@gabrielvtdev](https://github.com/gabrielvtdev)
+- **Gabriel Vitor** - [@gabrielvtdev](https://github.com/gabrielvtdev)
 
-## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+
